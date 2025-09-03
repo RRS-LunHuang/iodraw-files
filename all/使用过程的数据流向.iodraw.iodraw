@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="erQoJgUDAVa3WDWUXPbH-13" value="运行ACT下的推理脚本" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="830" width="210" height="110" as="geometry">
+          <mxGeometry x="1010" y="772" width="210" height="110" as="geometry">
             <mxRectangle x="410" y="140" width="80" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -72,6 +72,9 @@
             <mxPoint x="1010" y="985" as="sourcePoint" />
             <mxPoint x="1050" y="985" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="erQoJgUDAVa3WDWUXPbH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="erQoJgUDAVa3WDWUXPbH-9" target="erQoJgUDAVa3WDWUXPbH-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
