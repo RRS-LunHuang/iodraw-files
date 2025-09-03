@@ -117,7 +117,7 @@
             <mxPoint x="480" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IhI5FKzwwBWI385Gf2U4-219" value="FOXBOT-A1200_ACT(SIM)-1" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="1">
+        <mxCell id="IhI5FKzwwBWI385Gf2U4-219" value="使用" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="1">
           <mxGeometry x="1420" y="320" width="840" height="930" as="geometry">
             <mxRectangle x="520" y="155" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
