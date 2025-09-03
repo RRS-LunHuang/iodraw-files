@@ -26,7 +26,7 @@
         <mxCell id="IhI5FKzwwBWI385Gf2U4-174" value="各物体xyz坐标：&lt;div&gt;按照命名要求搭建场景，sim自动获取&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="IhI5FKzwwBWI385Gf2U4-173">
           <mxGeometry y="26" width="280" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="IhI5FKzwwBWI385Gf2U4-201" value="各物体xyz坐标：&lt;div&gt;按照命名要求搭建场景，sim自动获取&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="IhI5FKzwwBWI385Gf2U4-173">
+        <mxCell id="IhI5FKzwwBWI385Gf2U4-201" value="关节角限位：&lt;div&gt;按照命名要求搭建场景，sim自动获取&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="IhI5FKzwwBWI385Gf2U4-173">
           <mxGeometry y="70" width="280" height="44" as="geometry" />
         </mxCell>
         <mxCell id="IhI5FKzwwBWI385Gf2U4-200" value="各物体xyz坐标：&lt;div&gt;按照命名要求搭建场景，sim自动获取&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="IhI5FKzwwBWI385Gf2U4-173">
