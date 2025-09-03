@@ -177,6 +177,12 @@
         <mxCell id="IhI5FKzwwBWI385Gf2U4-259" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;推理与训练共用同一程序&lt;br&gt;仅额外传入参数&lt;/span&gt;&lt;span style=&quot;background-color: rgb(246, 248, 250); color: rgb(31, 35, 40); font-family: var(--fontStack-monospace, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace); font-size: 13.6px; text-align: start;&quot;&gt;--eval&lt;/span&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=1;rotatable=1;part=1;html=1;movable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="IhI5FKzwwBWI385Gf2U4-258">
           <mxGeometry y="50" width="210" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IhI5FKzwwBWI385Gf2U4-260" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1700" y="800" as="sourcePoint" />
+            <mxPoint x="1750" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
