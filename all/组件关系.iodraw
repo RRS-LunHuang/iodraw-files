@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1362" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1946" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,7 +118,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IhI5FKzwwBWI385Gf2U4-219" value="使用" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="340" width="840" height="930" as="geometry">
+          <mxGeometry x="1430" y="360" width="840" height="930" as="geometry">
             <mxRectangle x="520" y="155" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -176,9 +176,6 @@
         </mxCell>
         <mxCell id="IhI5FKzwwBWI385Gf2U4-259" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;推理与训练共用同一程序&lt;br&gt;仅额外传入参数&lt;/span&gt;&lt;span style=&quot;background-color: rgb(246, 248, 250); color: rgb(31, 35, 40); font-family: var(--fontStack-monospace, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace); font-size: 13.6px; text-align: start;&quot;&gt;--eval&lt;/span&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=1;rotatable=1;part=1;html=1;movable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="IhI5FKzwwBWI385Gf2U4-258">
           <mxGeometry y="50" width="210" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IhI5FKzwwBWI385Gf2U4-264" value="开始推理后，模型会持续的完成设定好的任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="IhI5FKzwwBWI385Gf2U4-219">
-          <mxGeometry x="505" y="780" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IhI5FKzwwBWI385Gf2U4-261" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;输入&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="1450" y="940" width="470" height="180" as="geometry">
