@@ -23,7 +23,7 @@
         <mxCell id="IhI5FKzwwBWI385Gf2U4-173" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;配置&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="20" y="340" width="280" height="158" as="geometry" />
         </mxCell>
-        <mxCell id="IhI5FKzwwBWI385Gf2U4-201" value="关节角限位：&lt;div&gt;按照命名要求搭建场景，sim自动获取&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="IhI5FKzwwBWI385Gf2U4-173">
+        <mxCell id="IhI5FKzwwBWI385Gf2U4-201" value="导入机器人：&lt;div&gt;在其他3d软件中导出URDF文件并导入sim&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="IhI5FKzwwBWI385Gf2U4-173">
           <mxGeometry y="26" width="280" height="44" as="geometry" />
         </mxCell>
         <mxCell id="IhI5FKzwwBWI385Gf2U4-174" value="各物体xyz坐标：&lt;div&gt;按照命名要求搭建场景，sim自动获取&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="IhI5FKzwwBWI385Gf2U4-173">
@@ -114,6 +114,9 @@
         </mxCell>
         <mxCell id="IhI5FKzwwBWI385Gf2U4-172" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;操作者&lt;/span&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=1;rotatable=1;part=1;html=1;movable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="IhI5FKzwwBWI385Gf2U4-171">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IhI5FKzwwBWI385Gf2U4-206" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="518" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
