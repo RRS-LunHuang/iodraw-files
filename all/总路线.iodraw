@@ -49,7 +49,7 @@
           <mxGeometry x="160" y="310" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IhI5FKzwwBWI385Gf2U4-152" value="ACT" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="770" y="490" width="160" height="120" as="geometry">
+          <mxGeometry x="280" y="547" width="160" height="120" as="geometry">
             <mxRectangle x="240" y="480" width="80" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
