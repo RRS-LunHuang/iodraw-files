@@ -112,6 +112,12 @@
         <mxCell id="IhI5FKzwwBWI385Gf2U4-172" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;操作者&lt;/span&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=1;rotatable=1;part=1;html=1;movable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="IhI5FKzwwBWI385Gf2U4-171">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="IhI5FKzwwBWI385Gf2U4-199" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="1120" as="sourcePoint" />
+            <mxPoint x="650" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
