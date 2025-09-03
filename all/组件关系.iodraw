@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="FOXBOT-A1200_ACT(SIM)-1" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="190" y="220" width="890" height="970" as="geometry">
+          <mxGeometry x="180" y="180" width="890" height="970" as="geometry">
             <mxRectangle x="60" y="180" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
