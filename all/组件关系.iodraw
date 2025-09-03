@@ -77,7 +77,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IhI5FKzwwBWI385Gf2U4-161" value="导入机器人" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="330" width="630" height="780" as="geometry">
+          <mxGeometry x="1270" y="330" width="310" height="620" as="geometry">
             <mxRectangle x="60" y="180" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
