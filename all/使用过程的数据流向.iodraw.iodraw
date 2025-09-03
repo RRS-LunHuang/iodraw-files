@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="0IdeeNlP4Z02PFgV9oro">
-    <mxGraphModel dx="3027" dy="1687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1703" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,20 +132,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="erQoJgUDAVa3WDWUXPbH-48" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1300" y="260" width="510" height="200" as="geometry" />
+          <mxGeometry x="1300" y="260" width="580" height="260" as="geometry" />
         </mxCell>
         <mxCell id="erQoJgUDAVa3WDWUXPbH-28" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;输出&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="erQoJgUDAVa3WDWUXPbH-48">
-          <mxGeometry width="420" height="200" as="geometry">
+          <mxGeometry width="580" height="260" as="geometry">
             <mxRectangle x="20" y="50" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="erQoJgUDAVa3WDWUXPbH-29" value="&lt;pre style=&quot;box-sizing: border-box; font-family: var(--fontStack-monospace, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace); font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; tab-size: var(--tab-size-preference); overflow-wrap: normal; padding: var(--base-size-16); overflow: auto; line-height: 1.45; background-color: rgb(246, 248, 250); border-radius: 6px; word-break: normal; min-height: 52px;&quot;&gt;&lt;font color=&quot;#1f2328&quot;&gt;三四岁&lt;/font&gt;&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="erQoJgUDAVa3WDWUXPbH-28">
-          <mxGeometry y="26" width="420" height="174" as="geometry" />
+        <mxCell id="erQoJgUDAVa3WDWUXPbH-29" value="&lt;pre style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; tab-size: var(--tab-size-preference); overflow-wrap: normal; padding: var(--base-size-16); overflow: auto; line-height: 1.45; background-color: rgb(246, 248, 250); border-radius: 6px; word-break: normal; min-height: 52px;&quot;&gt;&lt;font face=&quot;ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace&quot; color=&quot;#1f2328&quot;&gt;&lt;span style=&quot;font-size: 13.6px;&quot;&gt;/                          (File)&lt;br/&gt;├─ attrs: { &#39;sim&#39;: True }&lt;br/&gt;├─ action                   (T, action_len)   float64(默认)  ← 建议可改 float32&lt;br/&gt;└─ observations             (Group)&lt;br/&gt;   ├─ qpos                  (T, action_len)   float64(默认)  ← 建议可改 float32&lt;br/&gt;   └─ images                (Group)&lt;br/&gt;      ├─ wrist              (T, 480, 640, 3) uint8          ← RGB&lt;br/&gt;      └─ head               (T, 480, 640, 3) uint8          ← RGB&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;var(--fontStack-monospace, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace)&quot;&gt;&lt;span style=&quot;font-size: 13.6px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="erQoJgUDAVa3WDWUXPbH-28">
+          <mxGeometry y="26" width="580" height="234" as="geometry" />
         </mxCell>
-        <mxCell id="erQoJgUDAVa3WDWUXPbH-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ff00ea;" edge="1" parent="erQoJgUDAVa3WDWUXPbH-48">
+        <mxCell id="erQoJgUDAVa3WDWUXPbH-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ff00ea;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="110" as="sourcePoint" />
-            <mxPoint x="510" y="110" as="targetPoint" />
+            <mxPoint x="1900" y="389.38" as="sourcePoint" />
+            <mxPoint x="1980" y="389.38" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
