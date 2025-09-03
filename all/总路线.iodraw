@@ -63,6 +63,12 @@
         <mxCell id="IhI5FKzwwBWI385Gf2U4-83" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="255.5" y="504" width="97.5" height="291.5" as="geometry" />
         </mxCell>
+        <mxCell id="IhI5FKzwwBWI385Gf2U4-86" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="555" as="sourcePoint" />
+            <mxPoint x="710" y="615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
