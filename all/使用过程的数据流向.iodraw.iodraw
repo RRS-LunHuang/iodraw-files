@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="0IdeeNlP4Z02PFgV9oro">
-    <mxGraphModel dx="1602" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2270" dy="1265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,7 +92,7 @@
           <mxGeometry y="26" width="420" height="174" as="geometry" />
         </mxCell>
         <mxCell id="erQoJgUDAVa3WDWUXPbH-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;推理过程中ACT输出参数&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;同步&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;在机械臂上完成任务执行&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="980" y="1000" width="260" height="60" as="geometry" />
+          <mxGeometry x="1000" y="1030" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
