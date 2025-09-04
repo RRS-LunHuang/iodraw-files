@@ -173,7 +173,7 @@
           <mxGeometry x="630" y="650" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I_Vof2WNPZqI1K6gILcc-20" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="640" y="890" width="630" height="80" as="geometry" />
+          <mxGeometry x="550" y="850" width="630" height="80" as="geometry" />
         </mxCell>
         <mxCell id="I_Vof2WNPZqI1K6gILcc-22" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1680" y="320" width="640" height="260" as="geometry" />
@@ -191,15 +191,15 @@
         </mxCell>
         <mxCell id="erQoJgUDAVa3WDWUXPbH-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#00CC00;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="929.2899999999998" as="sourcePoint" />
-            <mxPoint x="631.4457831325301" y="929.2899999999998" as="targetPoint" />
+            <mxPoint x="420" y="889.2899999999998" as="sourcePoint" />
+            <mxPoint x="541.4457831325301" y="889.2899999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I_Vof2WNPZqI1K6gILcc-19" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;3&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560.0014457831326" y="890" width="30" height="40" as="geometry" />
+          <mxGeometry x="470.00144578313257" y="850" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_Vof2WNPZqI1K6gILcc-29" value="&lt;font style=&quot;text-wrap-mode: nowrap; font-size: 18px;&quot;&gt;推理过程中ACT调用sim_env程序&lt;/font&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;输出参数&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;同步&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;在机械臂上完成任务执行&lt;/span&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="950" width="380" height="80" as="geometry" />
+          <mxGeometry x="550" y="850" width="380" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
