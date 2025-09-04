@@ -117,66 +117,6 @@
             <mxPoint x="420" y="115" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IhI5FKzwwBWI385Gf2U4-219" value="使用" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="1430" y="340" width="840" height="930" as="geometry">
-            <mxRectangle x="520" y="155" width="90" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IhI5FKzwwBWI385Gf2U4-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="IhI5FKzwwBWI385Gf2U4-219" source="IhI5FKzwwBWI385Gf2U4-220" target="IhI5FKzwwBWI385Gf2U4-238" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IhI5FKzwwBWI385Gf2U4-220" value="运行RLbench下的数据采集脚本" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="IhI5FKzwwBWI385Gf2U4-219" vertex="1">
-          <mxGeometry x="530" y="130" width="210" height="90" as="geometry">
-            <mxRectangle x="410" y="140" width="80" height="50" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IhI5FKzwwBWI385Gf2U4-221" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;采集训练所需的HDF5格式数据&lt;/font&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=1;rotatable=1;part=1;html=1;movable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="IhI5FKzwwBWI385Gf2U4-220" vertex="1">
-          <mxGeometry y="50" width="210" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="IhI5FKzwwBWI385Gf2U4-223" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;输入&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" parent="IhI5FKzwwBWI385Gf2U4-219" vertex="1">
-          <mxGeometry x="20" y="50" width="420" height="200" as="geometry">
-            <mxRectangle x="20" y="50" width="70" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IhI5FKzwwBWI385Gf2U4-224" value="&lt;pre style=&quot;box-sizing: border-box; font-family: var(--fontStack-monospace, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace); font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; tab-size: var(--tab-size-preference); overflow-wrap: normal; padding: var(--base-size-16); overflow: auto; line-height: 1.45; background-color: rgb(246, 248, 250); border-radius: 6px; word-break: normal; min-height: 52px;&quot;&gt;&lt;font color=&quot;#1f2328&quot;&gt;python3 RLBench/tools/&lt;/font&gt;&lt;font color=&quot;#00cc00&quot;&gt;dataset_generator_hdf5.py&lt;/font&gt;&lt;font color=&quot;#1f2328&quot;&gt; \&lt;br&gt;--save_path Datasets \&lt;br&gt;&lt;/font&gt;--robot fba12 \&lt;font color=&quot;#ff3333&quot;&gt;&lt;br&gt;&lt;/font&gt;--tasks tool_inspection \&lt;font color=&quot;#ff3333&quot;&gt;      &lt;br&gt;&lt;/font&gt;--variations 1 \                   &lt;font color=&quot;#ff3333&quot;&gt;&lt;br&gt;--episodes_per_task 50 \&lt;/font&gt;&lt;font color=&quot;#1f2328&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#ff3333&quot;&gt;--dynamic_step=False \&lt;/font&gt;&lt;font color=&quot;#1f2328&quot;&gt;&lt;br&gt;&lt;/font&gt;--onscreen_render=True&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="IhI5FKzwwBWI385Gf2U4-223" vertex="1">
-          <mxGeometry y="26" width="420" height="174" as="geometry" />
-        </mxCell>
-        <mxCell id="IhI5FKzwwBWI385Gf2U4-236" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="IhI5FKzwwBWI385Gf2U4-219" source="IhI5FKzwwBWI385Gf2U4-224" target="IhI5FKzwwBWI385Gf2U4-220" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="-10" as="sourcePoint" />
-            <mxPoint x="370" y="-60" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IhI5FKzwwBWI385Gf2U4-238" value="运行ACT下的训练脚本" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="IhI5FKzwwBWI385Gf2U4-219" vertex="1">
-          <mxGeometry x="530" y="400" width="210" height="110" as="geometry">
-            <mxRectangle x="410" y="140" width="80" height="50" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IhI5FKzwwBWI385Gf2U4-239" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;读取HDF5格式数据，&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;并依据参数训练&lt;/font&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=1;rotatable=1;part=1;html=1;movable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="IhI5FKzwwBWI385Gf2U4-238" vertex="1">
-          <mxGeometry y="50" width="210" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IhI5FKzwwBWI385Gf2U4-241" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;输入&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" parent="IhI5FKzwwBWI385Gf2U4-219" vertex="1">
-          <mxGeometry x="20" y="330" width="470" height="180" as="geometry">
-            <mxRectangle x="20" y="410" width="70" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IhI5FKzwwBWI385Gf2U4-242" value="&lt;pre style=&quot;box-sizing: border-box; font-family: var(--fontStack-monospace, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace); font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; tab-size: var(--tab-size-preference); overflow-wrap: normal; padding: var(--base-size-16); overflow: auto; line-height: 1.45; background-color: rgb(246, 248, 250); border-radius: 6px; word-break: normal; min-height: 52px;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; font-family: var(--fontStack-monospace, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace); font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; tab-size: var(--tab-size-preference); overflow-wrap: normal; padding: var(--base-size-16); overflow: auto; line-height: 1.45; border-radius: 6px; word-break: normal; min-height: 52px;&quot;&gt;&lt;font color=&quot;#1f2328&quot;&gt;python3 act/&lt;/font&gt;&lt;font color=&quot;#00cc00&quot;&gt;imitate_episodes_rlbench.py&lt;/font&gt;&lt;font color=&quot;#1f2328&quot;&gt; \&lt;br&gt;--task_name tool_inspection \&lt;br&gt;--ckpt_dir Trainings/tool_inspection \&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#ff3333&quot;&gt;--policy_class ACT --kl_weight 10 --chunk_size 20 &lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;box-sizing: border-box; font-family: var(--fontStack-monospace, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace); font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; tab-size: var(--tab-size-preference); overflow-wrap: normal; padding: var(--base-size-16); overflow: auto; line-height: 1.45; border-radius: 6px; word-break: normal; min-height: 52px;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;--hidden_dim 512 --batch_size 8 --dim_feedforward 3200 \&lt;/font&gt;&lt;font color=&quot;#1f2328&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#ff3333&quot;&gt;--num_epochs 2000  --lr 1e-5 \&lt;/font&gt;&lt;font color=&quot;#1f2328&quot;&gt;&lt;br&gt;--seed 0 --robot fba12 &lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="IhI5FKzwwBWI385Gf2U4-241" vertex="1">
-          <mxGeometry y="26" width="470" height="154" as="geometry" />
-        </mxCell>
-        <mxCell id="IhI5FKzwwBWI385Gf2U4-243" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.303;entryDx=0;entryDy=0;entryPerimeter=0;" parent="IhI5FKzwwBWI385Gf2U4-219" source="IhI5FKzwwBWI385Gf2U4-242" target="IhI5FKzwwBWI385Gf2U4-238" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="360" as="sourcePoint" />
-            <mxPoint x="460" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IhI5FKzwwBWI385Gf2U4-258" value="运行ACT下的推理脚本" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="IhI5FKzwwBWI385Gf2U4-219" vertex="1">
-          <mxGeometry x="530" y="630" width="210" height="110" as="geometry">
-            <mxRectangle x="410" y="140" width="80" height="50" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IhI5FKzwwBWI385Gf2U4-259" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;推理与训练共用同一程序&lt;br&gt;仅额外传入参数&lt;/span&gt;&lt;span style=&quot;background-color: rgb(246, 248, 250); color: rgb(31, 35, 40); font-family: var(--fontStack-monospace, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace); font-size: 13.6px; text-align: start;&quot;&gt;--eval&lt;/span&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=1;rotatable=1;part=1;html=1;movable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="IhI5FKzwwBWI385Gf2U4-258" vertex="1">
-          <mxGeometry y="50" width="210" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="IhI5FKzwwBWI385Gf2U4-261" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;输入&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="1450" y="940" width="470" height="180" as="geometry">
             <mxRectangle x="20" y="410" width="70" height="30" as="alternateBounds" />
