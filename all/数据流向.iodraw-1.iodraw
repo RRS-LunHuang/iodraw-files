@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="0IdeeNlP4Z02PFgV9oro">
-    <mxGraphModel dx="2724" dy="1518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2270" dy="1265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -200,6 +200,14 @@
         </mxCell>
         <mxCell id="I_Vof2WNPZqI1K6gILcc-29" value="&lt;font style=&quot;text-wrap-mode: nowrap; font-size: 18px;&quot;&gt;推理过程中ACT调用sim_env程序&lt;/font&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;输出参数&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;同步&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;在机械臂上完成任务执行&lt;/span&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="850" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I_Vof2WNPZqI1K6gILcc-33" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;输入1&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="60" width="420" height="200" as="geometry">
+            <mxRectangle x="20" y="50" width="70" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I_Vof2WNPZqI1K6gILcc-34" value="&lt;pre style=&quot;box-sizing: border-box; font-family: var(--fontStack-monospace, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace); font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; tab-size: var(--tab-size-preference); overflow-wrap: normal; padding: var(--base-size-16); overflow: auto; line-height: 1.45; background-color: rgb(246, 248, 250); border-radius: 6px; word-break: normal; min-height: 52px;&quot;&gt;&lt;font color=&quot;#1f2328&quot;&gt;python3 RLBench/tools/&lt;/font&gt;&lt;font color=&quot;#00cc00&quot;&gt;dataset_generator_hdf5.py&lt;/font&gt;&lt;font color=&quot;#1f2328&quot;&gt; \&lt;br&gt;--save_path Datasets \&lt;br&gt;&lt;/font&gt;--robot fba12 \&lt;font color=&quot;#ff3333&quot;&gt;&lt;br&gt;&lt;/font&gt;--tasks tool_inspection \&lt;font color=&quot;#ff3333&quot;&gt;      &lt;br&gt;&lt;/font&gt;--variations 1 \                   &lt;font color=&quot;#ff3333&quot;&gt;&lt;br&gt;--episodes_per_task 50 \&lt;/font&gt;&lt;font color=&quot;#1f2328&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#ff3333&quot;&gt;--dynamic_step=False \&lt;/font&gt;&lt;font color=&quot;#1f2328&quot;&gt;&lt;br&gt;&lt;/font&gt;--onscreen_render=True&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="I_Vof2WNPZqI1K6gILcc-33">
+          <mxGeometry y="26" width="420" height="174" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
