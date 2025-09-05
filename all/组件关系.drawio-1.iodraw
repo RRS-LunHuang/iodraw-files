@@ -196,7 +196,7 @@
             <mxPoint x="868" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-79" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-78">
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-79" value="神经网络的权重、预生成的动作序列" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-80" value="推理阶段" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-78">
