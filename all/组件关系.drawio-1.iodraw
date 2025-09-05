@@ -258,6 +258,9 @@
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-92" value="提供仿真的任务场景，代替真实机器人以及其运行环境&lt;div&gt;软件内附带采集和控制机器人和其他物体，位置、角度、路径计算、碰撞检测等诸多功能，需要使用自带的lua语言函数&lt;/div&gt;&lt;div&gt;提供其他语言的API接口，通过其他语言调用内置的lua语言函数&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-84">
           <mxGeometry x="50" y="20" width="650" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-94" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1468" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
