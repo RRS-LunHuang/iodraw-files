@@ -215,12 +215,12 @@
           <mxGeometry y="26" width="620" height="234" as="geometry" />
         </mxCell>
         <mxCell id="ZPPQTLb3DMaZS3ssK7CP-3" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;任务设计&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="810" width="690" height="260" as="geometry">
+          <mxGeometry x="1500" y="910" width="690" height="170" as="geometry">
             <mxRectangle x="20" y="50" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZPPQTLb3DMaZS3ssK7CP-4" value="&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;1、可以完成将排列在收纳盒中的刀具，依次在检测台夹具上放置、取走&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;2、在可移动的载具上安装机械臂，机械臂在一个大致范围内依然正常工作&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;2、可以接受检测台完成的指令，与检测台同步工作&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="ZPPQTLb3DMaZS3ssK7CP-3">
-          <mxGeometry y="26" width="690" height="234" as="geometry" />
+        <mxCell id="ZPPQTLb3DMaZS3ssK7CP-4" value="&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;1、可以完成将排列在收纳盒中的刀具，依次在检测台夹具上放置、取走&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;2、在可移动的载具上安装机械臂，机械臂在一个大致范围内依然正常工作&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;3、可以接受检测台完成的指令，与检测台同步工作&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="ZPPQTLb3DMaZS3ssK7CP-3">
+          <mxGeometry y="26" width="690" height="144" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
