@@ -98,7 +98,7 @@
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-37" value="PythonAPI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="915" y="227.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="gvqoMgzqXO0ryEuGJ2Fq-36" target="gvqoMgzqXO0ryEuGJ2Fq-39">
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#00CC00;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="gvqoMgzqXO0ryEuGJ2Fq-36" target="gvqoMgzqXO0ryEuGJ2Fq-51">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1010" y="260" as="targetPoint" />
           </mxGeometry>
@@ -118,7 +118,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-39" value="Pyrep" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="920" y="327.5" width="160" height="120" as="geometry">
+          <mxGeometry x="920" y="487.5" width="160" height="120" as="geometry">
             <mxRectangle x="410" y="480" width="80" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -138,6 +138,17 @@
         </mxCell>
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-42" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;集成Pyrep的数据采集&lt;/span&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=1;rotatable=1;part=1;html=1;movable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="920" y="557.5" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#00CC00;" edge="1" target="gvqoMgzqXO0ryEuGJ2Fq-39" source="gvqoMgzqXO0ryEuGJ2Fq-51" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1460" y="323" as="sourcePoint" />
+            <mxPoint x="1470" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-51" value="Pyrep" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="920" y="327.5" width="160" height="120" as="geometry">
+            <mxRectangle x="410" y="480" width="80" height="50" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IhI5FKzwwBWI385Gf2U4-161" value="导入机器人" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="155" width="310" height="620" as="geometry">
@@ -179,9 +190,6 @@
             <mxPoint x="370" y="165" as="sourcePoint" />
             <mxPoint x="420" y="115" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-49" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="510" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
