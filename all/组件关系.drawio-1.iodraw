@@ -87,6 +87,42 @@
             <mxPoint x="450" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-26" value="" style="group" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="850" y="80" width="410" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-10" value="Coppliasim(简称SIM)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-26">
+          <mxGeometry x="106.06" y="50.00000000000001" width="210" height="80.16" as="geometry">
+            <mxRectangle x="410" y="140" width="80" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-12" value="PythonAPI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-26">
+          <mxGeometry x="127.55555555555556" y="140.2834008097166" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-20" value="ACT模型" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-26">
+          <mxGeometry x="115.39333333333333" y="418.6234817813765" width="191.33333333333334" height="80.16194331983806" as="geometry">
+            <mxRectangle x="410" y="140" width="80" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gvqoMgzqXO0ryEuGJ2Fq-26" source="gvqoMgzqXO0ryEuGJ2Fq-15" target="gvqoMgzqXO0ryEuGJ2Fq-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="532.1862348178138" as="sourcePoint" />
+            <mxPoint x="205" y="587.8542510121457" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-14" value="Pyrep" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-26">
+          <mxGeometry x="132.11" y="231.58" width="157.89" height="106.88" as="geometry">
+            <mxRectangle x="410" y="480" width="80" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;执行仿真任务的环境（机械臂）&lt;/font&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=1;rotatable=1;part=1;html=1;movable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-26">
+          <mxGeometry x="113.94000000000005" y="105.67000000000002" width="210" height="30.159999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-21" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;利用数据集进行训练和推理&lt;/font&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=1;rotatable=1;part=1;html=1;movable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-26">
+          <mxGeometry x="115.39333333333343" y="468.62348178137654" width="191.33333333333334" height="30.16194331983806" as="geometry" />
+        </mxCell>
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-15" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 整合PythonAPI&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;的运动控制&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=1;rotatable=1;part=1;html=1;movable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-26">
+          <mxGeometry x="132.11000000000013" y="281.58000000000004" width="157.89" height="56.879999999999995" as="geometry" />
+        </mxCell>
         <mxCell id="IhI5FKzwwBWI385Gf2U4-202" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;推理过程&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="520" y="667.5" width="410" height="550" as="geometry" />
         </mxCell>
@@ -132,6 +168,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="600" as="sourcePoint" />
+            <mxPoint x="1250" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gvqoMgzqXO0ryEuGJ2Fq-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1200" y="600" as="sourcePoint" />
             <mxPoint x="1250" y="550" as="targetPoint" />
