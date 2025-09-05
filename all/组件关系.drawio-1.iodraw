@@ -252,8 +252,8 @@
             <mxRectangle x="120" y="210" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-94" value="使用Pyrep提供的函数，自动的执行多次搭建好的任务，&lt;span style=&quot;background-color: initial;&quot;&gt;提&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;供一定规则下&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;随机生成的工具（例如每次任务时，桌&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;子在不同的方向）&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-91">
-          <mxGeometry x="10" y="25" width="400" height="60" as="geometry" />
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-94" value="使用Pyrep提供的函数，自动的执行多次搭建好的任务，&lt;span style=&quot;background-color: initial;&quot;&gt;提&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;供一定规则下&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;随机生成的工具（例如每次任务时，桌&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;子在不同的方向）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-91">
+          <mxGeometry x="5" y="35" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-93" value="整合SIM中的PythonAPI，更简单的使用Python语句控制SIM中的场景物体" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-90">
           <mxGeometry x="5" y="18" width="410" height="30" as="geometry" />
