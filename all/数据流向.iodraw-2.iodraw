@@ -211,7 +211,7 @@
             <mxRectangle x="20" y="50" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZPPQTLb3DMaZS3ssK7CP-2" value="&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;当采集任务数为50次时（&lt;/span&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;episodes_per task：50&lt;/span&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;），&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="ZPPQTLb3DMaZS3ssK7CP-1">
+        <mxCell id="ZPPQTLb3DMaZS3ssK7CP-2" value="&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;当采集任务数为50次时（&lt;/span&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;episodes_per task：50&lt;/span&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;），&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;每一次任务暂定步长为95步（stpe=95），一次任务的步长为50*95=4750&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;设定一次预测的动作序列为20步（）：&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="ZPPQTLb3DMaZS3ssK7CP-1">
           <mxGeometry y="26" width="830" height="494" as="geometry" />
         </mxCell>
       </root>
