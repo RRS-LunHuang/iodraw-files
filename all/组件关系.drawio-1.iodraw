@@ -87,15 +87,12 @@
             <mxPoint x="450" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-35" value="Coppliasim(简称SIM)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-35" value="Coppliasim(简称SIM)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="920" y="132.5" width="160" height="90" as="geometry">
             <mxRectangle x="410" y="140" width="80" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-36" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;仿真任务环境(机械臂)&lt;/font&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=1;rotatable=1;part=1;html=1;movable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-35">
-          <mxGeometry y="50" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-37" value="PythonAPI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-37" value="PythonAPI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="915" y="227.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#00CC00;strokeColor=#009900;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="gvqoMgzqXO0ryEuGJ2Fq-36" target="gvqoMgzqXO0ryEuGJ2Fq-39">
@@ -111,13 +108,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-45" value="ACT模型" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-45" value="ACT模型" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="895" y="747.5" width="210" height="90" as="geometry">
             <mxRectangle x="410" y="140" width="80" height="50" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-46" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;利用数据集进行训练和推理&lt;/font&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=1;rotatable=1;part=1;html=1;movable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-45">
-          <mxGeometry y="50" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#009900;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="gvqoMgzqXO0ryEuGJ2Fq-42" target="gvqoMgzqXO0ryEuGJ2Fq-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -155,35 +149,35 @@
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-42" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;集成Pyrep的数据采集&lt;/span&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=1;rotatable=1;part=1;html=1;movable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="920" y="557.5" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-56" value="Pyrep&lt;span style=&quot;background-color: initial;&quot;&gt;API&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-56" value="Pyrep&lt;span style=&quot;background-color: initial;&quot;&gt;API&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="925" y="447.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-57" value="UDF5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-57" value="UDF5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="945" y="627.5" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-59" value="" style="group" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="840" y="30" width="280" height="40" as="geometry" />
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-36" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;仿真任务环境(机械臂)&lt;/font&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=1;rotatable=1;part=1;html=1;movable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="920" y="182.5" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-53" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#009900;" edge="1" parent="gvqoMgzqXO0ryEuGJ2Fq-59">
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-46" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;利用数据集进行训练和推理&lt;/font&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=1;rotatable=1;part=1;html=1;movable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="895" y="797.5" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-53" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#009900;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" as="sourcePoint" />
-            <mxPoint x="100" as="targetPoint" />
+            <mxPoint x="860" y="30" as="sourcePoint" />
+            <mxPoint x="940" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-54" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;2*RGB图像+6*关节角+1夹爪状态输入&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-59">
-          <mxGeometry y="10" width="280" height="30" as="geometry" />
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-54" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;2*RGB图像+6*关节角+1夹爪状态输入&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="840" y="40" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-60" value="" style="group" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="840" y="80" width="280" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-61" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;" edge="1" parent="gvqoMgzqXO0ryEuGJ2Fq-60">
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-61" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" as="sourcePoint" />
-            <mxPoint x="100" as="targetPoint" />
+            <mxPoint x="860" y="80" as="sourcePoint" />
+            <mxPoint x="940" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-62" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;action（6*关节角，1夹爪状态输入）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-60">
-          <mxGeometry x="5" y="10" width="270" height="30" as="geometry" />
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-62" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;action（6*关节角，1夹爪状态输入）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="845" y="90" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IhI5FKzwwBWI385Gf2U4-161" value="导入机器人" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="155" width="310" height="620" as="geometry">
