@@ -90,6 +90,9 @@
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-26" value="" style="group" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="850" y="80" width="410" height="550" as="geometry" />
         </mxCell>
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gvqoMgzqXO0ryEuGJ2Fq-26" source="gvqoMgzqXO0ryEuGJ2Fq-10" target="gvqoMgzqXO0ryEuGJ2Fq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-10" value="Coppliasim(简称SIM)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-26">
           <mxGeometry x="106.06" y="50" width="213.94" height="90" as="geometry">
             <mxRectangle x="410" y="140" width="80" height="50" as="alternateBounds" />
@@ -110,7 +113,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-14" value="Pyrep" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-26">
-          <mxGeometry x="132.11" y="231.58" width="157.89" height="106.88" as="geometry">
+          <mxGeometry x="134.09" y="231.58" width="157.89" height="106.88" as="geometry">
             <mxRectangle x="410" y="480" width="80" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
