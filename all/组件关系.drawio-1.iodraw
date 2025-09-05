@@ -243,12 +243,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-90" value="Pyrep" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-84">
-          <mxGeometry x="20" y="85" width="670" height="265" as="geometry">
+          <mxGeometry x="30" y="80" width="500" height="270" as="geometry">
             <mxRectangle x="120" y="210" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-91" value="RLbench" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-90">
-          <mxGeometry x="80" y="50" width="300" height="160" as="geometry">
+          <mxGeometry x="60" y="80" width="300" height="160" as="geometry">
             <mxRectangle x="120" y="210" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
