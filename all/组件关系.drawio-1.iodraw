@@ -139,6 +139,12 @@
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-42" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;集成Pyrep的数据采集&lt;/span&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=1;rotatable=1;part=1;html=1;movable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="920" y="557.5" width="160" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1180" y="90" as="sourcePoint" />
+            <mxPoint x="1230" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IhI5FKzwwBWI385Gf2U4-161" value="导入机器人" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="155" width="310" height="620" as="geometry">
             <mxRectangle x="120" y="210" width="90" height="30" as="alternateBounds" />
