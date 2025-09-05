@@ -252,8 +252,8 @@
             <mxRectangle x="120" y="210" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-92" value="提供仿真的任务场景，代替真实机器人以及其运行环境&lt;div&gt;软件内附带采集和控制机器人和其他物体，位置、角度、路径计算、碰撞检测&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-84">
-          <mxGeometry x="10" y="30" width="430" height="40" as="geometry" />
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-92" value="提供仿真的任务场景，代替真实机器人以及其运行环境&lt;div&gt;软件内附带采集和控制机器人和其他物体，位置、角度、路径计算、碰撞检测等诸多功能的API&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-84">
+          <mxGeometry x="-35" y="30" width="520" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
