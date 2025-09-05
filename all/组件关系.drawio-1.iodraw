@@ -190,6 +190,18 @@
             <mxRectangle x="350" y="480" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-78" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="708" y="770" as="sourcePoint" />
+            <mxPoint x="868" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-79" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-80" value="推理阶段&lt;font size=&quot;1&quot;&gt;15&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-78">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IhI5FKzwwBWI385Gf2U4-161" value="导入机器人" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="155" width="310" height="620" as="geometry">
             <mxRectangle x="120" y="210" width="90" height="30" as="alternateBounds" />
@@ -230,18 +242,6 @@
             <mxPoint x="370" y="165" as="sourcePoint" />
             <mxPoint x="420" y="115" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-78" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1120" y="680" as="sourcePoint" />
-            <mxPoint x="1280" y="680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-79" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-78">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-80" value="Source" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-78">
-          <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
