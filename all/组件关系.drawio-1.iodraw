@@ -141,8 +141,8 @@
         </mxCell>
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-53" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#009900;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1150" y="90" as="sourcePoint" />
-            <mxPoint x="1230" y="90" as="targetPoint" />
+            <mxPoint x="1160" y="90" as="sourcePoint" />
+            <mxPoint x="1240" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-54" value="2*RGB图像+6*关节角+1夹爪状态输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
