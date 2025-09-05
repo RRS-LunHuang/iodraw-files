@@ -252,6 +252,9 @@
             <mxRectangle x="120" y="210" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-92" value="提供仿真的任务场景，代替真实机器人以及其运行环境" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-84">
+          <mxGeometry x="10" y="30" width="310" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
