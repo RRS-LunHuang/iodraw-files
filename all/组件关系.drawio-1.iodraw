@@ -145,8 +145,8 @@
             <mxPoint x="1240" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-54" value="2*RGB图像+6*关节角+1夹爪状态输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="1170" y="100" width="220" height="30" as="geometry" />
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-54" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;2*RGB图像+6*关节角+1夹爪状态输入&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1140" y="100" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IhI5FKzwwBWI385Gf2U4-161" value="导入机器人" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="155" width="310" height="620" as="geometry">
