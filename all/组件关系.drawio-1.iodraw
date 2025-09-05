@@ -91,7 +91,7 @@
           <mxGeometry x="760" y="80" width="410" height="550" as="geometry" />
         </mxCell>
         <mxCell id="IhI5FKzwwBWI385Gf2U4-202" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;推理过程&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" parent="gvqoMgzqXO0ryEuGJ2Fq-26" vertex="1">
-          <mxGeometry width="410" height="550" as="geometry" />
+          <mxGeometry x="6.06" width="410" height="550" as="geometry" />
         </mxCell>
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-10" value="Coppliasim(简称SIM)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-26">
           <mxGeometry x="132.11" y="55.67" width="157.89" height="80.16" as="geometry">
@@ -111,7 +111,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-20" value="ACT模型" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-26">
-          <mxGeometry x="109.33333333333333" y="418.6234817813765" width="191.33333333333334" height="80.16194331983806" as="geometry">
+          <mxGeometry x="115.39333333333333" y="418.6234817813765" width="191.33333333333334" height="80.16194331983806" as="geometry">
             <mxRectangle x="410" y="140" width="80" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
