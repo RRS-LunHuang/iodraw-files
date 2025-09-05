@@ -183,7 +183,7 @@
           <mxGeometry x="5" y="60" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="730" y="400" width="120" height="570" as="geometry" />
+          <mxGeometry x="800" y="55" width="380" height="895" as="geometry" />
         </mxCell>
         <mxCell id="IhI5FKzwwBWI385Gf2U4-161" value="导入机器人" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="155" width="310" height="620" as="geometry">
