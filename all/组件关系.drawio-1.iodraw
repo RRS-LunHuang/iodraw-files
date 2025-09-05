@@ -248,7 +248,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-91" value="RLbench" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-90">
-          <mxGeometry x="40" y="100" width="300" height="160" as="geometry">
+          <mxGeometry x="20" y="55" width="300" height="160" as="geometry">
             <mxRectangle x="120" y="210" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
