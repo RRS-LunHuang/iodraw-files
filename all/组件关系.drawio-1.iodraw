@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-1" value="ACT模型" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="445" y="810" width="210" height="90" as="geometry">
+          <mxGeometry x="445" y="860" width="210" height="90" as="geometry">
             <mxRectangle x="410" y="140" width="80" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -88,7 +88,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-76" value="" style="group" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="990" y="50" width="390" height="875" as="geometry" />
+          <mxGeometry x="880" y="60" width="390" height="875" as="geometry" />
         </mxCell>
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-67" value="" style="group" vertex="1" connectable="0" parent="gvqoMgzqXO0ryEuGJ2Fq-76">
           <mxGeometry x="50" y="45" width="280" height="807.5" as="geometry" />
