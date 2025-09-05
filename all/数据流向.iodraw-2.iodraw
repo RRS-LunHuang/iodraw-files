@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="0IdeeNlP4Z02PFgV9oro">
-    <mxGraphModel dx="1602" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2270" dy="1265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
         <mxCell id="erQoJgUDAVa3WDWUXPbH-6" value="&lt;pre style=&quot;box-sizing: border-box; font-family: var(--fontStack-monospace, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace); font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; tab-size: var(--tab-size-preference); overflow-wrap: normal; padding: var(--base-size-16); overflow: auto; line-height: 1.45; background-color: rgb(246, 248, 250); border-radius: 6px; word-break: normal; min-height: 52px;&quot;&gt;&lt;font color=&quot;#1f2328&quot;&gt;python3 RLBench/tools/&lt;/font&gt;&lt;font color=&quot;#00cc00&quot;&gt;dataset_generator_hdf5.py&lt;/font&gt;&lt;font color=&quot;#1f2328&quot;&gt; \&lt;br&gt;--save_path Datasets \&lt;br&gt;&lt;/font&gt;--robot fba12 \&lt;font color=&quot;#ff3333&quot;&gt;&lt;br&gt;&lt;/font&gt;--tasks tool_inspection \&lt;font color=&quot;#ff3333&quot;&gt;      &lt;br&gt;&lt;/font&gt;--variations 1 \                   &lt;font color=&quot;#ff3333&quot;&gt;&lt;br&gt;--episodes_per_task 50 \&lt;/font&gt;&lt;font color=&quot;#1f2328&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#ff3333&quot;&gt;--dynamic_step=False \&lt;/font&gt;&lt;font color=&quot;#1f2328&quot;&gt;&lt;br&gt;&lt;/font&gt;--onscreen_render=True&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="erQoJgUDAVa3WDWUXPbH-5" vertex="1">
           <mxGeometry y="26" width="420" height="174" as="geometry" />
         </mxCell>
-        <mxCell id="erQoJgUDAVa3WDWUXPbH-8" value="运行ACT下的训练脚本" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="erQoJgUDAVa3WDWUXPbH-8" value="运行ACT的训练脚本" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="400" width="210" height="110" as="geometry">
             <mxRectangle x="410" y="140" width="80" height="50" as="alternateBounds" />
           </mxGeometry>
