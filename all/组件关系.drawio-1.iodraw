@@ -170,18 +170,6 @@
             <mxPoint x="420" y="115" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1200" y="600" as="sourcePoint" />
-            <mxPoint x="1250" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1380" y="370" as="sourcePoint" />
-            <mxPoint x="1250" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
