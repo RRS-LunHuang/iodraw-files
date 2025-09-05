@@ -266,8 +266,8 @@
             <mxRectangle x="120" y="210" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-96" value="将UDR5格式的数据用于训练（训练：调整内部神经网络的权重，获得预训练的动作序列）&lt;div&gt;训练完成后，参考神经网络训练的动作序列，从上一步的动作中预测下一步的动作，&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-95">
-          <mxGeometry x="5" y="35" width="500" height="40" as="geometry" />
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-96" value="将UDR5格式的数据用于训练（训练：调整内部神经网络的权重，获得预训练的动作序列）&lt;div&gt;训练完成后，参考神经网络训练的动作序列，从上一步的动作中预测下一步的动作，&lt;/div&gt;&lt;div&gt;返回action（）&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-95">
+          <mxGeometry x="5" y="25" width="500" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
