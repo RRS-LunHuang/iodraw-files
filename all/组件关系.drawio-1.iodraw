@@ -238,7 +238,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-84" value="Coppliasim(简称SIM、V-rep)" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1260" width="750" height="400" as="geometry">
+          <mxGeometry x="250" y="1280" width="750" height="400" as="geometry">
+            <mxRectangle x="120" y="210" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvqoMgzqXO0ryEuGJ2Fq-90" value="Coppliasim(简称SIM、V-rep)" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="gvqoMgzqXO0ryEuGJ2Fq-84">
+          <mxGeometry x="10" y="80" width="430" height="230" as="geometry">
             <mxRectangle x="120" y="210" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
