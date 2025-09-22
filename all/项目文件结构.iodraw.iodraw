@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="E8mcvAH2_8xhPBtp2dEo">
-    <mxGraphModel dx="2724" dy="1518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1946" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,7 +74,7 @@
           <mxGeometry x="730" y="425" width="420" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fbrjI1JbPF1K0kKvhk9Z-22" value="&lt;div&gt;imitate_episodes.py：训练和评估 ACT&lt;/div&gt;&lt;div&gt;imitate_episodes_rlbench：采用&lt;span style=&quot;background-color: initial;&quot;&gt;coppliasim+rlbench的&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;训练和评估 ACT&lt;/span&gt;&lt;/div&gt;&lt;div&gt;policy.py：ACT 模型的训练参数&lt;/div&gt;&lt;div&gt;detr：ACT 的模型定义，根据 DETR 修改&lt;/div&gt;&lt;div&gt;sim_env.py：具有关节空间控制的 Mujoco + DM_Control 仿真环境&lt;/div&gt;&lt;div&gt;sim_env_rlbench：采用coppliasim+rlbench控制的&lt;span style=&quot;background-color: initial;&quot;&gt;仿真环境&lt;/span&gt;&lt;/div&gt;&lt;div&gt;ee_sim_env.py：Mujoco + DM_Control 环境与 EE 空间控制&lt;/div&gt;&lt;div&gt;scripted_policy.py：仿真环境的脚本策略&lt;/div&gt;&lt;div&gt;constants.py：跨文件共享的常量&lt;/div&gt;&lt;div&gt;utils.py：数据加载和辅助函数等实用程序&lt;/div&gt;&lt;div&gt;visualize_episodes.py：从 .hdf5 数据集保存视频&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1093" width="420" height="190" as="geometry" />
+          <mxGeometry x="380" y="890" width="420" height="190" as="geometry" />
         </mxCell>
         <mxCell id="fbrjI1JbPF1K0kKvhk9Z-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fbrjI1JbPF1K0kKvhk9Z-19" target="fbrjI1JbPF1K0kKvhk9Z-20">
           <mxGeometry relative="1" as="geometry">
