@@ -203,7 +203,7 @@
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IhI5FKzwwBWI385Gf2U4-161" value="导入机器人" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="60" y="155" width="310" height="620" as="geometry">
+          <mxGeometry x="60" y="155" width="310" height="435" as="geometry">
             <mxRectangle x="120" y="210" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -224,11 +224,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="420" as="sourcePoint" />
             <mxPoint x="220" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IhI5FKzwwBWI385Gf2U4-215" value="SIM" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="IhI5FKzwwBWI385Gf2U4-161" vertex="1">
-          <mxGeometry x="80" y="465" width="180" height="120" as="geometry">
-            <mxRectangle x="410" y="350" width="80" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IhI5FKzwwBWI385Gf2U4-218" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.002;exitY=0.016;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IhI5FKzwwBWI385Gf2U4-161" target="IhI5FKzwwBWI385Gf2U4-173" edge="1">
