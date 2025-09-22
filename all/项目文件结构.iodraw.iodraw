@@ -17,16 +17,19 @@
           <mxGeometry x="200" y="370" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fbrjI1JbPF1K0kKvhk9Z-8" value="conda安装包&lt;div&gt;nvida显卡驱动安装包&lt;/div&gt;&lt;div&gt;coppliasim压缩包&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="510" y="145" width="140" height="65" as="geometry" />
+          <mxGeometry x="380" y="140" width="140" height="65" as="geometry" />
         </mxCell>
         <mxCell id="fbrjI1JbPF1K0kKvhk9Z-9" value="examples：使用pyrep接口控制仿真环境内各机械臂的实例" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="390" y="300" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fbrjI1JbPF1K0kKvhk9Z-10" value=".ttm：coppliasim下的模型文件&lt;div&gt;.ttt：coppliasim下的场景文件（包含模型）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="460" y="10" width="230" height="60" as="geometry" />
+          <mxGeometry x="435" y="60" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fbrjI1JbPF1K0kKvhk9Z-13" value="pyrep" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="230" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fbrjI1JbPF1K0kKvhk9Z-14" value="examples：使用pyrep接口控制仿真环境内各机械臂的实例" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="390" y="360" width="320" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
