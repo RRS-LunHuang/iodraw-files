@@ -35,10 +35,10 @@
           <mxGeometry x="380" y="520" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fbrjI1JbPF1K0kKvhk9Z-18" value="rlbench" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="450" width="100" height="50" as="geometry" />
+          <mxGeometry x="380" y="400" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fbrjI1JbPF1K0kKvhk9Z-19" value="tools" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="450" width="100" height="50" as="geometry" />
+          <mxGeometry x="380" y="460" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
