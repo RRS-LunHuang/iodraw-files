@@ -208,12 +208,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IhI5FKzwwBWI385Gf2U4-162" value="SIM导入URDF模型" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="IhI5FKzwwBWI385Gf2U4-161" vertex="1">
-          <mxGeometry x="80" y="290" width="195" height="130" as="geometry">
+          <mxGeometry x="80" y="290" width="210" height="135" as="geometry">
             <mxRectangle x="410" y="350" width="80" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qnoiWOX3-ePgirYube1B-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;在SIM左上角选项卡中选择&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;plugins，打开URDF&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;import，选择导出的urdf文件&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="IhI5FKzwwBWI385Gf2U4-162">
-          <mxGeometry y="50" width="195" height="80" as="geometry" />
+        <mxCell id="qnoiWOX3-ePgirYube1B-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;在SIM左上角选项卡中选择&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;plugins，打开URDF&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;import，选择导出的urdf文件&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="IhI5FKzwwBWI385Gf2U4-162">
+          <mxGeometry y="50" width="210" height="85" as="geometry" />
         </mxCell>
         <mxCell id="IhI5FKzwwBWI385Gf2U4-164" value="solidworks导出URDF模型" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="IhI5FKzwwBWI385Gf2U4-161" vertex="1">
           <mxGeometry x="80" y="50" width="180" height="120" as="geometry">
