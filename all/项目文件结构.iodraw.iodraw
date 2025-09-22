@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="E8mcvAH2_8xhPBtp2dEo">
-    <mxGraphModel dx="1135" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1946" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,10 +53,10 @@
           <mxGeometry x="380" y="520" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fbrjI1JbPF1K0kKvhk9Z-18" value="rlbench" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="450" width="100" height="50" as="geometry" />
+          <mxGeometry x="380" y="450" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fbrjI1JbPF1K0kKvhk9Z-19" value="tools" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="370" width="100" height="50" as="geometry" />
+          <mxGeometry x="380" y="380" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fbrjI1JbPF1K0kKvhk9Z-20" value="&lt;div&gt;assets：模型。一些场景中的 V-Rep 模型文件（ttm）和三维模型文件&lt;/div&gt;&lt;div&gt;backend：后端接口。定义了一些基础类，如 Scene、Robot、Task、Observation 等&lt;/div&gt;&lt;div&gt;gym：兼容 gym 接口&lt;/div&gt;&lt;div&gt;robot_ttms：机器人模型。包括 jaco、mico、panda、sawyer 等机器人的 ttm 模型&lt;/div&gt;&lt;div&gt;sim2real：Domain Randomization 相关&lt;/div&gt;&lt;div&gt;task_ttms：任务模型。包括 100 个任务对应的 ttm 模型&lt;/div&gt;&lt;div&gt;tasks：任务。用 Python 定义的 100 个任务&lt;/div&gt;&lt;div&gt;action_modes.py：动作模式。枚举定义 ArmActionMode、GripperActionMode 的类型，一个 Agent 的动作模式包括 arm 和 gripper&lt;/div&gt;&lt;div&gt;const.py：颜色的定义&lt;/div&gt;&lt;div&gt;demo.py：Demo 类的定义&lt;/div&gt;&lt;div&gt;environment.py：Environment 类的定义&lt;/div&gt;&lt;div&gt;noise_model.py：噪声模型。包括 Gaussian 噪声&lt;/div&gt;&lt;div&gt;observation_config.py：观察的配置。定义环境中可观察的数据&lt;/div&gt;&lt;div&gt;task_environment.py：任务环境。可认为一个 task 与 environment 的组合&lt;/div&gt;&lt;div&gt;utils.py：一些功能函数&lt;/div&gt;&lt;div&gt;task_design.ttt：基准环境。包含 Panda机械臂、工作台、传感器等。所有的任务都以该环境为基准&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="750" y="460" width="1080" height="290" as="geometry" />
