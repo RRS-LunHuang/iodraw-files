@@ -31,6 +31,9 @@
         <mxCell id="fbrjI1JbPF1K0kKvhk9Z-14" value="tutorials：添加第三方机械臂的官方教程" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="390" y="350" width="220" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fbrjI1JbPF1K0kKvhk9Z-15" value="examples：使用pyrep接口控制仿真环境内各机械臂的实例" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="400" y="310" width="320" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
