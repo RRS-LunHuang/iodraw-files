@@ -47,7 +47,7 @@
           <mxGeometry x="380" y="600" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fbrjI1JbPF1K0kKvhk9Z-22" value="&lt;div&gt;imitate_episodes.py训练和评估 ACT&lt;/div&gt;&lt;div&gt;policy.pyACT 政策适配器&lt;/div&gt;&lt;div&gt;detrACT 的模型定义，根据 DETR 修改&lt;/div&gt;&lt;div&gt;sim_env.py具有关节空间控制的 Mujoco + DM_Control 环境&lt;/div&gt;&lt;div&gt;ee_sim_env.pyMujoco + DM_Control 环境与 EE 空间控制&lt;/div&gt;&lt;div&gt;scripted_policy.py模拟环境的脚本策略&lt;/div&gt;&lt;div&gt;constants.py跨文件共享的常量&lt;/div&gt;&lt;div&gt;utils.py数据加载和辅助函数等实用程序&lt;/div&gt;&lt;div&gt;visualize_episodes.py从 .hdf5 数据集保存视频&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="760" y="827" width="1080" height="290" as="geometry" />
+          <mxGeometry x="760" y="827" width="360" height="163" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
