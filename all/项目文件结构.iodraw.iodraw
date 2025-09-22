@@ -19,8 +19,8 @@
         <mxCell id="fbrjI1JbPF1K0kKvhk9Z-8" value="conda安装包&lt;div&gt;nvida显卡驱动安装包&lt;/div&gt;&lt;div&gt;coppliasim压缩包&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="75" width="140" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="fbrjI1JbPF1K0kKvhk9Z-9" value="examples" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="210" width="100" height="40" as="geometry" />
+        <mxCell id="fbrjI1JbPF1K0kKvhk9Z-9" value="examples：使用pyrep接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="190" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
