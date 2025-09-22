@@ -207,7 +207,7 @@
             <mxRectangle x="120" y="210" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IhI5FKzwwBWI385Gf2U4-162" value="SIM" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="IhI5FKzwwBWI385Gf2U4-161" vertex="1">
+        <mxCell id="IhI5FKzwwBWI385Gf2U4-162" value="SIM导入URDF模型" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="IhI5FKzwwBWI385Gf2U4-161" vertex="1">
           <mxGeometry x="80" y="290" width="180" height="120" as="geometry">
             <mxRectangle x="410" y="350" width="80" height="50" as="alternateBounds" />
           </mxGeometry>
