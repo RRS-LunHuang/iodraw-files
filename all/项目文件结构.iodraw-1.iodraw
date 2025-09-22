@@ -44,7 +44,7 @@
           <mxGeometry x="380" y="300" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fbrjI1JbPF1K0kKvhk9Z-10" value=".ttm：coppliasim下的模型文件&lt;div&gt;.ttt：coppliasim下的场景文件（包含模型）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="840" y="60" width="230" height="60" as="geometry" />
+          <mxGeometry x="850" y="60" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fbrjI1JbPF1K0kKvhk9Z-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fbrjI1JbPF1K0kKvhk9Z-13" target="fbrjI1JbPF1K0kKvhk9Z-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
