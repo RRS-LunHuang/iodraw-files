@@ -28,11 +28,11 @@
         <mxCell id="fbrjI1JbPF1K0kKvhk9Z-13" value="pyrep" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="230" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fbrjI1JbPF1K0kKvhk9Z-14" value="tutorials：添加第三方机械臂的官方教程" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="fbrjI1JbPF1K0kKvhk9Z-14" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="390" y="350" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fbrjI1JbPF1K0kKvhk9Z-15" value="&lt;span style=&quot;color: rgb(25, 27, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, &amp;quot;MiSans L3&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;backend：后端接口。V-REP API 和库文件&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="960" y="260" width="320" height="30" as="geometry" />
+          <mxGeometry x="750" y="230" width="320" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
