@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="E8mcvAH2_8xhPBtp2dEo">
-    <mxGraphModel dx="1135" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1602" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,7 @@
           <mxGeometry x="760" y="400" width="1080" height="290" as="geometry" />
         </mxCell>
         <mxCell id="fbrjI1JbPF1K0kKvhk9Z-21" value="task_builder2：任务创建和运行的主要工具&lt;div&gt;dataset_generator_hdf5：运行并采集任务数据，转换为udf5格式的工具&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="370" y="600" width="420" height="40" as="geometry" />
+          <mxGeometry x="280" y="610" width="420" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fbrjI1JbPF1K0kKvhk9Z-22" value="&lt;div&gt;imitate_episodes.py：训练和评估 ACT&lt;/div&gt;&lt;div&gt;imitate_episodes_rlbench：采用&lt;span style=&quot;background-color: initial;&quot;&gt;coppliasim+rlbench的&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;训练和评估 ACT&lt;/span&gt;&lt;/div&gt;&lt;div&gt;policy.py：ACT 模型的训练参数&lt;/div&gt;&lt;div&gt;detr：ACT 的模型定义，根据 DETR 修改&lt;/div&gt;&lt;div&gt;sim_env.py：具有关节空间控制的 Mujoco + DM_Control 仿真环境&lt;/div&gt;&lt;div&gt;sim_env_rlbench：采用coppliasim+rlbench控制的&lt;span style=&quot;background-color: initial;&quot;&gt;仿真环境&lt;/span&gt;&lt;/div&gt;&lt;div&gt;ee_sim_env.py：Mujoco + DM_Control 环境与 EE 空间控制&lt;/div&gt;&lt;div&gt;scripted_policy.py：仿真环境的脚本策略&lt;/div&gt;&lt;div&gt;constants.py：跨文件共享的常量&lt;/div&gt;&lt;div&gt;utils.py：数据加载和辅助函数等实用程序&lt;/div&gt;&lt;div&gt;visualize_episodes.py：从 .hdf5 数据集保存视频&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="370" y="720" width="420" height="190" as="geometry" />
