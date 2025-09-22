@@ -47,7 +47,7 @@
           <mxGeometry x="380" y="600" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fbrjI1JbPF1K0kKvhk9Z-22" value="&lt;div&gt;imitate_episodes.py：训练和评估 ACT&lt;/div&gt;&lt;div&gt;imitate_episodes_rlbench：采用&lt;span style=&quot;background-color: initial;&quot;&gt;coppliasim+rlbench的&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;训练和评估 ACT&lt;/span&gt;&lt;/div&gt;&lt;div&gt;policy.py：ACT 模型的训练参数&lt;/div&gt;&lt;div&gt;detr：ACT 的模型定义，根据 DETR 修改&lt;/div&gt;&lt;div&gt;sim_env.py：具有关节空间控制的 Mujoco + DM_Control 仿真环境&lt;/div&gt;&lt;div&gt;sim_env_rlbench：采用coppliasim+rlbench控制的&lt;span style=&quot;background-color: initial;&quot;&gt;仿真环境&lt;/span&gt;&lt;/div&gt;&lt;div&gt;ee_sim_env.py：Mujoco + DM_Control 环境与 EE 空间控制&lt;/div&gt;&lt;div&gt;scripted_policy.py：仿真环境的脚本策略&lt;/div&gt;&lt;div&gt;constants.py：跨文件共享的常量&lt;/div&gt;&lt;div&gt;utils.py：数据加载和辅助函数等实用程序&lt;/div&gt;&lt;div&gt;visualize_episodes.py：从 .hdf5 数据集保存视频&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="370" y="740" width="420" height="163" as="geometry" />
+          <mxGeometry x="370" y="720" width="420" height="183" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
